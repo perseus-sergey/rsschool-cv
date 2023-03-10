@@ -24,12 +24,12 @@ Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis. Id diam mae
 
 ## Software skill
 
-******
+* VBA
+* PHP
+* LARAVEL
+* JAVA SCRIPT
 
-*VBA
-*PHP
-*LARAVEL
-*JAVA SCRIPT
+******
 
 **Phone**
 
